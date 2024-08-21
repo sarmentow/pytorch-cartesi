@@ -1,0 +1,5 @@
+Get a blank project to run
+Try the obvious (pip install torch for cpu)
+Look behind the curtain for optimizations? (i.e. machine-emulator repo, read the paper)
+
+No riscv wheels https://download.pytorch.org/whl/torch/

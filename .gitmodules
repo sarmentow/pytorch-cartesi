@@ -1,0 +1,9 @@
+[submodule "machine-emulator"]
+	path = machine-emulator
+	url = https://github.com/cartesi/machine-emulator
+[submodule "pytorch"]
+	path = pytorch
+	url = https://github.com/pytorch/pytorch
+[submodule "riscv-gnu-toolchain"]
+	path = riscv-gnu-toolchain
+	url = https://github.com/riscv-collab/riscv-gnu-toolchain
